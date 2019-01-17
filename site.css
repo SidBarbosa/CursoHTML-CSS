@@ -21,6 +21,7 @@ h1, h2 {
 p {
 	text-align: justify;
 	margin: 20px 0;
+	
 }
 
 .citacao-bio {
@@ -44,6 +45,7 @@ p {
 
 main a {
 	color: #851944;
+	
 }
 
 .navegacao-site a {
@@ -55,11 +57,11 @@ main a {
     padding: 20px;
 }
 
-.container {
+.container  {
 	width: 720px;
 	margin: auto;
 	padding: 30px 0;
-}
+	}
 
 .navegacao-site h1 {
 	font-size: 30px;
@@ -96,3 +98,7 @@ em {
 	text-align: center;
 	background-color: #E6E7E8;
 }
+a{
+	text-decoration: none;
+}
+
